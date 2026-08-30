@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ارسال پیامک مشخصات</string>
+    <string name="title_app">ارسال پیامک مشخصات</string>
+    <string name="subtitle_app">دریافت نام و نام خانوادگی و پیامک به شماره دلخواه</string>
+    <string name="first_name_label">نام</string>
+    <string name="first_name_placeholder">مثال: علی</string>
+    <string name="last_name_label">نام خانوادگی</string>
+    <string name="last_name_placeholder">مثال: محمدی</string>
+    <string name="phone_number_label">شماره تلفن گیرنده</string>
+    <string name="phone_number_placeholder">مثال: 09123456789</string>
+    <string name="message_preview_title">پیش‌نمایش متن پیامک</string>
+    <string name="btn_send_direct">ارسال مستقیم پیامک</string>
+    <string name="btn_open_sms_app">باز کردن در برنامه پیامک</string>
+    <string name="btn_clear">پاک کردن فرم</string>
+    <string name="history_title">تاریخچه ارسال‌ها</string>
+    <string name="history_empty">هنوز پیامی ارسال نشده است</string>
+    <string name="error_fill_fields">لطفاً نام، نام خانوادگی و شماره همراه را وارد نمایید</string>
+    <string name="error_invalid_phone">شماره تلفن وارد شده نامعتبر است</string>
+    <string name="sms_sent_success">پیامک با موفقیت ارسال شد</string>
+    <string name="sms_send_failed">خطا در ارسال پیامک</string>
+    <string name="permission_required">برای ارسال مستقیم پیامک، مجوز ارسال پیامک نیاز است</string>
+    <string name="grant_permission">اعطای دسترسی</string>
+</resources>

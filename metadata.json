@@ -1,0 +1,6 @@
+{
+  "name": "ارسال پیامک مشخصات",
+  "description": "برنامه ارسال نام و نام خانوادگی به شماره دلخواه از طریق پیامک",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
